@@ -1,4 +1,4 @@
 courses = ['rahul', 'Math', 'Physics', 'CompSci']
-popped = courses.pop()
-print(popped)
+popped_subs = courses.pop()
+print(popped_subs)
 
