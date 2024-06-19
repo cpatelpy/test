@@ -20,4 +20,15 @@ if len(name) > 0 and age_val > 18:
 else:
     print('Please Go to Home!')
 
+
+'''for loop special and break'''
+#example 1
+r_range = int(input('Enter range/sequence value (below 10)= '))
+for i in range(10):
+    if i == r_range:
+        break
+    else:
+        print(i)
+
+
 exit ()
