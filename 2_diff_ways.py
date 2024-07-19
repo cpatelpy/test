@@ -1,5 +1,7 @@
 #!/usr/bin/python
-########################### 1st way #######################
+
+########################### 1st way #######################1
+
 import math
 
 class Rahul_math:
@@ -16,11 +18,13 @@ class Rahul_math:
             print('Entered Value is not a number, please enter a valid number.')
             return 'Exit 1'
 
-arith_instance = Rahul_math(0)
+arith_instance = Rahul_math(0)     #Need to creat instance for this class "Rahul_math"
 print(arith_instance.squart())
-########################### 1st way END #######################
 
-########################### 2nd way #######################
+########################### 1st way END #######################1
+
+########################### 2nd way #######################2
+
 import math
 from math import sqrt
 
@@ -32,4 +36,15 @@ except ValueError:
     print('Entered Value is not a number, please enter a valid number.')
     print('Exit 2')
 
-####################### 2nd way End ###############
+####################### 2nd way End ###############2
+
+####### If module is not in script dir ######Start##########3
+'''
+
+import sys
+sys.path.append("Paste hear you module location")
+import # import your required module
+
+'''
+####### If module is not in script dir ######END##########3
+
