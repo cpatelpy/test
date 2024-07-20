@@ -1,6 +1,11 @@
-#!/usr/bin/python
-
-#created by rahul
+#!/usr/bin/pthon3
+#Name: bb_bit_size.py
+#Creation Date: 09 June 2024
+#Author: Rahul Suthar
+#Purpose: Find minimum blind/burried drill size
+#Special Requirements: None
+#Revision History:
+#Rev 1.0.0 
 
 #script created to chek min drill bit size on blind buried drills
 
