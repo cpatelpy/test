@@ -1,4 +1,4 @@
-#/bin/python
+#/bin/python3
 #Name: bb_bit_size.py
 #Creation Date: 09 June 2024
 #Author: Rahul Suthar
